@@ -1,6 +1,6 @@
 # Flappy Bird Game in Flutter
 
-![Flappy Bird Game](assets/images/game_screen.jpeg) <!-- Add a screenshot of your game -->
+| ![Flappy Bird Game](assets/images/game_screen.jpeg) | <!-- Add a screenshot of your game -->
 
 A Flappy Bird clone built using **Flutter** and the **Flame** game engine. This project demonstrates how to create a simple 2D game with Flutter, complete with gameplay mechanics, score tracking, and high-score saving.
 
