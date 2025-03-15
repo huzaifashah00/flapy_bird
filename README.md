@@ -46,24 +46,6 @@ A Flappy Bird clone built using **Flutter** and the **Flame** game engine. This 
 - Pass through the gaps between pipes to earn points.
 - The game ends if the bird hits a pipe or the ground.
 
-## **Project Structure**
-flappy_bird/
-├── assets/
-│   ├── images/
-│   │   ├── bird.png
-│   │   └── pipe.png
-├── lib/
-│   ├── main.dart
-│   ├── screens/
-│   │   ├── splash_screen.dart
-│   │   ├── start_screen.dart
-│   │   ├── game_screen.dart
-│   │   └── game_over_screen.dart
-│   └── game/
-│       └── flappy_bird_game.dart
-├── pubspec.yaml
-└── README.md
-
 
 ## **Dependencies**
 This project uses the following packages:
